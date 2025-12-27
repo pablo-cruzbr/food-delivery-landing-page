@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './TempNavbar';
 import BannerBackground from "../assets/home-banner-background.png";
+import BannerImage from "../assets/home-banner-image.png";
 import { FiArrowRight } from "react-icons/fi";
 const Home = () => {
   return (
@@ -22,6 +23,9 @@ const Home = () => {
         <button className="secondary-button">
           Order Now <FiArrowRight/>
         </button>
+        <div className="home-image-section">
+            <img src={BannerImage} alt="" />
+        </div>
       </div>
     </div>
 
