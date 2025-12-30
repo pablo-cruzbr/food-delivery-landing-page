@@ -7,7 +7,7 @@ const Testimonial = () => {
     <div className="work-section-wrapper">
       <div className="work-section-top">
         <p className="primary-subheading">Testemunho</p>
-        <h1 className="primary-heading">What They Are Saying</h1>
+        <h1 className="primary-heading">O que eles estão dizendo</h1>
         <p className="primary-text">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem unde asperiores vero obcaecati laudantium quo dicta in illum quibusdam.
         </p>
