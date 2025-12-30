@@ -1,11 +1,12 @@
 import React from 'react';
+import ProfilePic from "../Assets/photoprofile.png";
 import {AiFillStar} from "react-icons/ai";
 
 const Testimonial = () => {
   return (
     <div className="work-section-wrapper">
       <div className="work-section-top">
-        <p className="primary-subheading">Testimonial</p>
+        <p className="primary-subheading">Testemunho</p>
         <h1 className="primary-heading">What They Are Saying</h1>
         <p className="primary-text">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem unde asperiores vero obcaecati laudantium quo dicta in illum quibusdam.
@@ -13,6 +14,7 @@ const Testimonial = () => {
       </div>
 
       <div className="testimonial-section-bottom">
+         <img src={ProfilePic} alt="" />
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione vero magnam eligendi? Quas sequi similique natus vitae perspiciatis.</p>
 
       <div className="textimonials-stars-container">

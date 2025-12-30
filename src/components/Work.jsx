@@ -28,8 +28,8 @@ const Work = () => {
   return (
    <div className="work-section-wrapper">
     <div className="work-section-top">
-        <p className="prismary-subheading">Work</p>
-        <h1 className="primary-heading">How It Works</h1>
+        <p className="prismary-subheading">Trabalhos</p>
+        <h1 className="primary-heading">Como funciona</h1>
         <p className="prismary-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod tempora quasi animi quidem reprehenderit praesentium illo.</p>
         <div className="work-section-bottom">
             {workInfoData.map((data) => (
