@@ -44,8 +44,7 @@ O layout foi pensado para ser simples, moderno e atrativo, priorizando a comunic
 
 - **React**
 - **Vite**
-- **TypeScript**
-- **CSS / Tailwind CSS**
+- **CSS**
 - **Design Responsivo**
 
 ---
