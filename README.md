@@ -1,6 +1,8 @@
 # 🍽️ Food Delivery — Landing Page
 
 Landing page desenvolvida para um serviço de **delivery de refeições saudáveis**, com foco em experiência do usuário, clareza visual e conversão.
+<img src="https://github.com/user-attachments/assets/cb2b78f4-e55c-4be0-871d-3c81b23c7769" width="100%">
+
 
 O projeto simula a apresentação de um produto real, destacando praticidade, qualidade e alimentação equilibrada.
 
